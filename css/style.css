@@ -190,6 +190,9 @@ li {
 
 .section .section-desc {
   text-align: center;
+	
+float: none;
+	position: static;
 }
 
 .two-column-wrapper {
@@ -202,17 +205,7 @@ li {
   -webkit-box-pack: justify;
   -ms-flex-pack: justify;
   justify-content: space-between;
-  @media screen and (min-width:481px) {
-	.sp{
-		display: none;
-	}
-}
-@media screen and (max-width:480px) {
-	.pc{
-		display: none;
-	}
-}
-}
+ 
 
 .two-column-image {
   width: 33%;
