@@ -214,6 +214,8 @@ li {
 
 .two-column-desc {
   width: 62%;
+  
+  
 }
 
 
@@ -637,4 +639,29 @@ li {
     padding: 0 10px;
     margin-bottom: 5px;
   }
-}
+  #img {
+    width: 100% ;}
+    two-column-image {
+      width: 100% ;
+    }
+  
+    * {
+      float: none;
+    }
+    
+    #card{
+      width:1000%;
+  padding-bottom: 56.25%;
+  height:0px;
+  position: relative;
+      ;}
+  
+    #video iframe{
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 1000%;
+      height: 1000%;
+      }
+  
+  }
