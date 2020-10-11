@@ -534,7 +534,7 @@ li {
   }
 
   #about .two-column-wrapper {
-     width: 100%; 
+     width: 100%;     
     -ms-flex-wrap: wrap;
     flex-wrap: wrap; 
   }
