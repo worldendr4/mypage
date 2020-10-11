@@ -521,22 +521,6 @@ li {
     font-size: 32px;
   }
 
-  #feature .two-column-wrapper {
-    width: 100%;
-    -ms-flex-wrap: nowrap;
-    flex-wrap: nowrap;
-  }
-
-  #feature .two-column-image {
-    width: 70%;
-    margin: 0 auto 20px;
-   /* overflow: hidden; */
-  }
-
-  #feature .two-column-desc {
-    width: 100%;
-  }
-
   #works .card {
     width: 100%;
   }
@@ -551,8 +535,8 @@ li {
 
   #about .two-column-wrapper {
      width: 100%; 
-    -ms-flex-wrap: nowrap;
-    flex-wrap: nowrap; 
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap; 
   }
 
   #about .two-column-image {
