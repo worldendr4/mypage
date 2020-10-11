@@ -550,15 +550,13 @@ li {
 
   #about .two-column-wrapper {
     width: 100%;
-    -ms-flex-wrap: wrap;
-    flex-wrap: wrap;
+    /* -ms-flex-wrap: wrap;
+    flex-wrap: wrap; */
   }
 
   #about .two-column-image {
     width: 100%;
     margin: 0 auto 20px;
-
-    
   }
 
   #about .two-column-desc {
