@@ -526,16 +526,16 @@ li {
   }
 
   #feature .two-column-image {
-    width: 90%;
+    width: 80%;
     margin: 0 auto 20px;
-    -ms-flex-wrap: wrap;
+    /* -ms-flex-wrap: wrap;
     flex-wrap: wrap;
-    overflow: hidden;
+    overflow: hidden; */
   }
 
   #feature .two-column-desc {
-    /* width: 100%; */
-    width:767px;
+    width: 100%;
+    /* width:767px; */
   }
 
   #works .card {
