@@ -530,10 +530,12 @@ li {
     margin: 0 auto 20px;
     -ms-flex-wrap: wrap;
     flex-wrap: wrap;
+    width:767px;
   }
 
   #feature .two-column-desc {
-    width: 100%;
+    /* width: 100%; */
+    width:767px;
   }
 
   #works .card {
