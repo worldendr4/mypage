@@ -523,14 +523,14 @@ li {
 
   #feature .two-column-wrapper {
     width: 100%;
+    -ms-flex-wrap: nowrap;
+    flex-wrap: nowrap;
   }
 
   #feature .two-column-image {
     width: 70%;
     margin: 0 auto 20px;
-    -ms-flex-wrap: nowrap;
-    flex-wrap: nowrap;
-    /* overflow: hidden; */
+   /* overflow: hidden; */
   }
 
   #feature .two-column-desc {
