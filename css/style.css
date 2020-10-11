@@ -534,18 +534,18 @@ li {
   }
 
   #about .two-column-wrapper {
-     width: 100%;     
-    -ms-flex-wrap: wrap;
-    flex-wrap: wrap; 
+     width: 100%!important;     
+    -ms-flex-wrap: wrap!important;
+    flex-wrap: wrap!important; 
   }
 
   #about .two-column-image {
-    width: 100%;
-    margin: 0 auto 20px;
+    width: 100%!important;
+    margin: 0 auto 20px!important;
   }
 
   #about .two-column-desc {
-    width: 100%;
+    width: 100%!important;
   }
 
   #skill .card-wrapper {
