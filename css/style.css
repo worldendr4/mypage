@@ -555,8 +555,9 @@ li {
   }
 
   #about .two-column-image {
-    width: 80%;
+    width: 100%;
     margin: 0 auto 20px;
+
     
   }
 
@@ -649,20 +650,9 @@ li {
     * {
       float: none;
     }
-    
-    #card{
-      width:1000%;
-  padding-bottom: 56.25%;
-  height:0px;
-  position: relative;
-      ;}
   
-    #video iframe{
-      position: absolute;
-      top: 0;
-      left: 0;
-      width: 1000%;
-      height: 1000%;
-      }
-  
+    card-wrapper my-gallery{
+      text-align: center;
+    }
+
   }
