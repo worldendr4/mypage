@@ -549,9 +549,9 @@ li {
   }
 
   #about .two-column-wrapper {
-    width: 100%;
-    /* -ms-flex-wrap: wrap;
-    flex-wrap: wrap; */
+     width: 100%; 
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap; 
   }
 
   #about .two-column-image {
