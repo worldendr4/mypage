@@ -530,7 +530,7 @@ li {
     margin: 0 auto 20px;
     -ms-flex-wrap: wrap;
     flex-wrap: wrap;
-    width:767px;
+    overflow: hidden;
   }
 
   #feature .two-column-desc {
