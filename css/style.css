@@ -546,7 +546,7 @@ li {
 
   #about .two-column-image {
     width: 100%!important;
-/*     margin: 0 auto 10px!important; */
+    margin: 0 auto 10px!important;
   }
 
   #about .two-column-desc {
